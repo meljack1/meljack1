@@ -3,7 +3,7 @@
 
 👩‍💻 Data and cloud engineering accredited by [AiCore](https://www.theaicore.com/)
 
-📊 Experience in web development and data analysis
+📊 Experience in web development and data visualisation
 
 🐍 Python / PostgreSQL / PySpark / Kafka / Airflow / Kinesis
 
