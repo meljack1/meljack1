@@ -1,6 +1,7 @@
 ## Mel Jack ✨ Data Engineering 
 
-👩‍💻 Data and cloud engineer accredited by [AiCore](https://www.theaicore.com/)
+
+👩‍💻 Data and cloud engineering accredited by [AiCore](https://www.theaicore.com/)
 
 📊 Experience in web development and data analysis
 
